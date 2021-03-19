@@ -1,5 +1,5 @@
 # Agenda-API
-<p align="center">Uma API para cadastos de clientes com Swagger</p>
+<p align="center">Uma API para cadastos de clientes com Swagger hosteada pelo Heroku</p>
 
 <p align="center"> Linguagem utilizada nesse projeto
 <h1 align="center"> C#

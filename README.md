@@ -11,7 +11,7 @@
 <p align="center">
  <a href="# Objetivo">Objetivo</a> •
  <a href="# Tecnologias">Tecnologias</a> • 
- <a href="# Autor">Autor</a>
+ <a href="# Autor">Autor</a> • 
     <a href="# Link">Link do Heroku</a>
 </p>
 
